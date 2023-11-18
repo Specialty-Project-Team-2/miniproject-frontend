@@ -11,6 +11,9 @@
 ## 배포주소
 https://miniproject-frontend-chi.vercel.app/
 
+## 시연영상
+https://youtu.be/Pn-EzFcaq3s
+
 ## 프로젝트 소개
 MineSweeper는 지뢰찾기라는 의미를 가지고 있습니다. 저희 웹사이트는 지뢰찾기 게임처럼 다른 사람들의 댓글을 통해 기업의 정보를 찾을 수 있습니다.
 
